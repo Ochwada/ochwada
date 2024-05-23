@@ -8,7 +8,6 @@ I am also open to learning about technology, especially in software development 
 
 While I do embrace the professional roles, my primary commitment is to champion GeoTech innovations and solutions, always seeking new avenues to share the transformative power of GeoAI. I indulge in anime, coding for fun, traveling, and cherish moments with my family in my free time. 
 
-![Profile Views](https://linda-ochwada.netlify.app/)
 
 
 <!--
