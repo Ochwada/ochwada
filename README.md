@@ -8,7 +8,9 @@ I am also open to learning about technology, especially in software development 
 
 While I do embrace the professional roles, my primary commitment is to champion GeoTech innovations and solutions, always seeking new avenues to share the transformative power of GeoAI. I indulge in anime, coding for fun, traveling, and cherish moments with my family in my free time. 
 
+Check out my portfolio [here](https://ochwada.github.io).
 
+![Profile Views](https://komarev.com/ghpvc/?ochwada=ochwada&color=green)
 
 <!--
 **Ochwada/ochwada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
