@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Niaje!
+## Niaje! Niaje
 
 As a Geoinformatics Expert, I have dedicated my career to empowering tomorrow's geospatial innovations. Currently, I am making strides in the realm of GeoTech Sales. My journey has seen me harness advanced technologies like machine learning to address pressing challenges, particularly in the potential of GeoAI. Beyond my professional roles, I have been recognized as a public speaker and panelist, sharing insights in "Der Deutscher Bundestag", "Black in Tech", and the "Geospatial World Forum" among others. 
 
