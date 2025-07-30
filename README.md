@@ -1,9 +1,41 @@
-## Hi there 👋
 
-I am currently expanding my skills through the Java Backend Engineering – Future Women with Zalando program program , where I am deepening my **backend development** knowledge with a focus on scalable, modern Java applications.
+# 👋 Hi there, I'm  Ochwada!
 
-Passionate about **Geoinformatics and Technology - AI** , I blend technical expertise with strategic insight. Known for problem-solving and teamwork, I bring experience in **GIS & Remote Sensing Analytics, Project Management, Software Development and Sales**. I drive impactful and innovative solutions in every project. Eager to learn and share knowledge with my teams. <a href="https://linda-ochwada.netlify.app/" target="_blank" rel="noopener noreferrer"> More about me - 🌐 Portfolio </a>
+Welcome to my GitHub profile! I'm a geospatial technologist, software developer, and technical leader passionate about building meaningful tools that solve real-world problems.
 
+## 🧭 About Me
+
+-  **Geospatial & Environmental Enthusiast**  
+  I specialize in remote sensing, GIS, and Earth observation, using spatial data to analyze, visualize, and protect our environment.
+
+-  **Full-Stack Developer in Progress**  
+  I work with Java (Spring Boot), JavaScript/TypeScript (React, Next.js), and Python to create secure, efficient, and impactful applications.
+
+-  **AI + GeoAI Explorer**  
+  I'm currently building AI-powered geospatial apps, including car and building detection tools using satellite imagery and deep learning.
+
+-  **Entrepreneur & Team Leader**  
+  As a co-founder and Technical Managing Director, I drive cross-functional projects from idea to execution while mentoring others.
+
+-  **Lifelong Learner**  
+  I'm always learning — from backend systems and databases to data pipelines, microservices, and mobile-first app design.
+
+
+## 🔧 Tools & Tech
+
+`Java` `Spring Boot` `React` `Next.js` `MongoDB` `PostgreSQL`  
+`Docker` `MapLibre GL` `QGIS` `Python` `Tailwind CSS`  
+`JWT` `GeoJSON` `REST APIs` `AI/ML` `Firebase`  
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ochwada-l-66630a36/)
+- 🌍 [My Website](https://linda-ochwada.netlify.app/)
+- ✉️ Reach out via GitHub or email — always open to collaboration, mentorship, or ideas!
+
+---
+
+_“Using technology to make data more human, maps more meaningful, and stories more powerful.”_
 
 
 
