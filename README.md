@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm  Ochwada!
 
-Welcome to my GitHub profile! I'm a geospatial technologist, software developer, and technical leader passionate about building meaningful tools that solve real-world problems.
+ I'm a geospatial technologist, software developer, and technical leader passionate about building meaningful tools that solve real-world problems.
 
 ## 🧭 About Me
 
