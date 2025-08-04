@@ -20,7 +20,6 @@
 -  **Lifelong Learner**  
   I'm always learning — from backend systems and databases to data pipelines, microservices, and mobile-first app design.
 
-
 ## 🔧 Tools & Technologies
 
 **Languages & Frameworks**  
@@ -43,40 +42,41 @@
 ## 🛠️ Technical Skills
 
 ### **Frontend Development**
-- **React**, **Next.js**, **Leaflet (GIS)** – *Intermediate*
-- **Tailwind CSS**, **Vite** – *Intermediate*
-- **Vue.js** – *Basic*
+- React, Next.js, Leaflet (GIS)  
+- Tailwind CSS, Vite  
+- Vue.js  
 
 ### **Backend Development**
-- **Node.js** – *Intermediate*
-- **Django**, **Spring Boot** – *Basic*
-- **REST API Development** – *Basic*
+- Node.js  
+- Django, Spring Boot  
+- REST API Development  
 
 ### **Programming Languages**
-- **Python** – *Advanced*
-- **Java**, **JavaScript** – *Intermediate*
-- **TypeScript**, **C** – *Basic*
+- Python  
+- Java, JavaScript  
+- TypeScript, C  
 
 ### **Cloud & Deployment Platforms**
-- **Netlify** – *Advanced*
-- **AWS**, **Firebase** – *Basic*
-- **Render** – *Basic*
+- Netlify  
+- AWS, Firebase  
+- Render  
 
 ### **Databases**
-- **PostgreSQL** – *Intermediate*
-- **Oracle**, **MySQL** – *Basic*
-- **MongoDB** – *Basic*
+- PostgreSQL  
+- Oracle, MySQL  
+- MongoDB  
 
 ### **GIS & Data Visualization**
-- **QGIS** – *Advanced*
-- **ArcGIS** – *Intermediate*
+- QGIS  
+- ArcGIS  
 
 ### **Development Tools & Practices**
-- **VS Code**, **IntelliJ IDEA**, **PyCharm**, **Anaconda** – *Proficient*
-- **Git**, **GitHub CLI**, **Chrome DevTools** – *Intermediate*
-- **Postman**, **JUnit**, **Maven**, **GitHub Actions** – *Basic*
-- **Webpack**, **Docker** – *Basic*
-- **ESLint**, **Prettier** – *Basic*
+- VS Code, IntelliJ IDEA, PyCharm, Anaconda  
+- Git, GitHub CLI, Chrome DevTools  
+- Postman, JUnit, Maven, GitHub Actions  
+- Webpack, Docker  
+- ESLint, Prettier  
+
 
 
 ## 🌐 Connect with Me
