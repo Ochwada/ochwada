@@ -35,47 +35,36 @@
 `Docker`
 
 **AI & Machine Learning**  
-`AI/ML` (Model Integration, Prompt Engineering, Remote Sensing Workflows)
+`AI/ML` `Prompt Engineering` `LLM Integration` `Remote Sensing ML Workflows`
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### **Frontend Development**
-- React, Next.js, Leaflet (GIS)  
-- Tailwind CSS, Vite  
-- Vue.js  
+`React` `Next.js` `Leaflet (GIS)` `Tailwind CSS` `Vite` `Vue.js`
 
 ### **Backend Development**
-- Node.js  
-- Django, Spring Boot  
-- REST API Development  
+`Node.js` `Django` `Spring Boot` `REST APIs`
 
 ### **Programming Languages**
-- Python  
-- Java, JavaScript  
-- TypeScript, C  
+`Python` `Java` `JavaScript` `TypeScript` `C`
 
 ### **Cloud & Deployment Platforms**
-- Netlify  
-- AWS, Firebase  
-- Render  
+`Netlify` `AWS` `Firebase` `Render`
 
 ### **Databases**
-- PostgreSQL  
-- Oracle, MySQL  
-- MongoDB  
+`PostgreSQL` `Oracle` `MySQL` `MongoDB`
 
 ### **GIS & Data Visualization**
-- QGIS  
-- ArcGIS  
+`QGIS` `ArcGIS`
 
 ### **Development Tools & Practices**
-- VS Code, IntelliJ IDEA, PyCharm, Anaconda  
-- Git, GitHub CLI, Chrome DevTools  
-- Postman, JUnit, Maven, GitHub Actions  
-- Webpack, Docker  
-- ESLint, Prettier  
+`VS Code` `IntelliJ IDEA` `PyCharm` `Anaconda`  
+`Git` `GitHub CLI` `Chrome DevTools`  
+`Postman` `JUnit` `Maven` `GitHub Actions`  
+`Webpack` `Docker`  
+`ESLint` `Prettier`
 
 
 
