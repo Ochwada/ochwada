@@ -29,7 +29,7 @@
 `PostgreSQL` `MongoDB` `Firebase` `REST APIs` `JWT`
 
 **Geospatial & Visualization**  
-`MapLibre GL` `QGIS` `GeoJSON`
+`MapLibre GL` `QGIS` `GeoJSON` `ArcGIS` `ERDAS` `FME`
 
 **DevOps & Deployment**  
 `Docker`
