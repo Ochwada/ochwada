@@ -21,11 +21,63 @@
   I'm always learning — from backend systems and databases to data pipelines, microservices, and mobile-first app design.
 
 
-## 🔧 Tools & Tech
+## 🔧 Tools & Technologies
 
-`Java` `Spring Boot` `React` `Next.js` `MongoDB` `PostgreSQL`  
-`Docker` `MapLibre GL` `QGIS` `Python` `Tailwind CSS`  
-`JWT` `GeoJSON` `REST APIs` `AI/ML` `Firebase`  
+**Languages & Frameworks**  
+`Java` `Spring Boot` `Python` `React` `Next.js` `Tailwind CSS`
+
+**Databases & APIs**  
+`PostgreSQL` `MongoDB` `Firebase` `REST APIs` `JWT`
+
+**Geospatial & Visualization**  
+`MapLibre GL` `QGIS` `GeoJSON`
+
+**DevOps & Deployment**  
+`Docker`
+
+**AI & Machine Learning**  
+`AI/ML` (Model Integration, Prompt Engineering, Remote Sensing Workflows)
+
+---
+
+## 🛠️ Technical Skills
+
+### **Frontend Development**
+- **React**, **Next.js**, **Leaflet (GIS)** – *Intermediate*
+- **Tailwind CSS**, **Vite** – *Intermediate*
+- **Vue.js** – *Basic*
+
+### **Backend Development**
+- **Node.js** – *Intermediate*
+- **Django**, **Spring Boot** – *Basic*
+- **REST API Development** – *Basic*
+
+### **Programming Languages**
+- **Python** – *Advanced*
+- **Java**, **JavaScript** – *Intermediate*
+- **TypeScript**, **C** – *Basic*
+
+### **Cloud & Deployment Platforms**
+- **Netlify** – *Advanced*
+- **AWS**, **Firebase** – *Basic*
+- **Render** – *Basic*
+
+### **Databases**
+- **PostgreSQL** – *Intermediate*
+- **Oracle**, **MySQL** – *Basic*
+- **MongoDB** – *Basic*
+
+### **GIS & Data Visualization**
+- **QGIS** – *Advanced*
+- **ArcGIS** – *Intermediate*
+
+### **Development Tools & Practices**
+- **VS Code**, **IntelliJ IDEA**, **PyCharm**, **Anaconda** – *Proficient*
+- **Git**, **GitHub CLI**, **Chrome DevTools** – *Intermediate*
+- **Postman**, **JUnit**, **Maven**, **GitHub Actions** – *Basic*
+- **Webpack**, **Docker** – *Basic*
+- **ESLint**, **Prettier** – *Basic*
+
 
 ## 🌐 Connect with Me
 
