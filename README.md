@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a geospatial technologist, software developer, <br>and technical leader passionate about building <br>meaningful tools that solve real-world problems.<br><br>I am currently working on Geospatial biodiversity SaaS<br>application
+I'm a geospatial technologist, software developer,and technical leader passionate about building meaningful tools that solve real-world problems.I am currently working on Geospatial biodiversity SaaS<br>application
 
 
 ## 🌐 Socials:
