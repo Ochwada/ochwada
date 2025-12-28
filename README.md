@@ -10,6 +10,8 @@ I work at the intersection of Biodiversity, geospatial technology, GeoAI, and We
 
 #  GitHub Stats:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ochwada)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github-readme-stats.vercel.app/api?username=ochwada&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ochwada&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ochwada&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
