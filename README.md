@@ -27,9 +27,7 @@ I work at the intersection of Biodiversity, geospatial technology, GeoAI, and We
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
 #  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ochwada&theme=neon&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ochwada&theme=neon&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ochwada&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![]([![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ochwada)](https://github.com/stats-organization/github-stats-extended)<br/>
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ochwada&theme=radical&no-frame=true&no-bg=true&margin-w=4)
